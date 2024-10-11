@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+trial/__init__.py
+trial/adios.py
+trial/holamundo.py
+trial.egg-info/PKG-INFO
+trial.egg-info/SOURCES.txt
+trial.egg-info/dependency_links.txt
+trial.egg-info/requires.txt
+trial.egg-info/top_level.txt

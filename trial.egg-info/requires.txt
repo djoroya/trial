@@ -1,0 +1,1 @@
+djgit@ git+https://github.com/djoroya/djgit.git
